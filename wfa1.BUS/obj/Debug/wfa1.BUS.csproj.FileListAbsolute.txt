@@ -1,0 +1,15 @@
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\bin\Debug\wfa1.BUS.dll.config
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\bin\Debug\wfa1.BUS.dll
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\bin\Debug\wfa1.BUS.pdb
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\bin\Debug\EntityFramework.dll
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\bin\Debug\wfa1.DAL.dll
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\bin\Debug\wfa1.DAL.pdb
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\bin\Debug\wfa1.DAL.dll.config
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\bin\Debug\EntityFramework.xml
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\obj\Debug\wfa1.BUS.csproj.AssemblyReference.cache
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\obj\Debug\wfa1.BUS.csproj.CoreCompileInputs.cache
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\obj\Debug\wfa1.BUS.csproj.Up2Date
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\obj\Debug\wfa1.BUS.dll
+C:\Users\Nghia\source\repos\wfa1.GUI\wfa1.BUS\obj\Debug\wfa1.BUS.pdb

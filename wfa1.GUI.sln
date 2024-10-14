@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfa1.GUI", "wfa1.GUI\wfa1.GUI.csproj", "{501D027A-7193-4DC6-9129-459C057C212F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfa1.BUS", "wfa1.BUS\wfa1.BUS.csproj", "{5CE393D4-4D5C-49A8-8EF9-FBA2E1F5DE2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wfa1.DAL", "wfa1.DAL\wfa1.DAL.csproj", "{896A7495-2116-44F5-8A1F-E679C9739846}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501D027A-7193-4DC6-9129-459C057C212F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501D027A-7193-4DC6-9129-459C057C212F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501D027A-7193-4DC6-9129-459C057C212F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501D027A-7193-4DC6-9129-459C057C212F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE393D4-4D5C-49A8-8EF9-FBA2E1F5DE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE393D4-4D5C-49A8-8EF9-FBA2E1F5DE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE393D4-4D5C-49A8-8EF9-FBA2E1F5DE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE393D4-4D5C-49A8-8EF9-FBA2E1F5DE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896A7495-2116-44F5-8A1F-E679C9739846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896A7495-2116-44F5-8A1F-E679C9739846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896A7495-2116-44F5-8A1F-E679C9739846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896A7495-2116-44F5-8A1F-E679C9739846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A727F8C4-D03A-4383-A5EA-9DFC0BDB201D}
+	EndGlobalSection
+EndGlobal
